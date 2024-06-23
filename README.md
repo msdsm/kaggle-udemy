@@ -7,6 +7,7 @@
 ## 構成
 - 03 : numpy,特にndarrayを理解する
 - 04 : DataFrameの構造を理解する
+- 05 : DataFrameを自在に操作する
 
 ## メモ
 
